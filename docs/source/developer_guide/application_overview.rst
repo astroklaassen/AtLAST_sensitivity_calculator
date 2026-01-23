@@ -29,7 +29,7 @@ This module creates a calculator instance according to user input that has been 
 calculator
 ++++++++++
 This module contains the main ``Calculator`` class that provides the interface
-for performing sensitivity and integration time calculations. A ``Calculator``
+for performing sensitivity and integration time calculations from user inputs. A ``Calculator``
 object may be instantiated with default parameter setup object, or by passing
 user input parameters as arguments to the parameter setup object constructor.
 
