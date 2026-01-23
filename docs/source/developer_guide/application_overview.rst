@@ -7,7 +7,7 @@ The calculator
 --------------
 
 The ``atlast_sc`` Python package contains the code that performs the sensitivity and
-integration time calculations, configures
+integration time calculations given a set of user inputs, configures
 default and allowed values and units for the parameters used by the calculator,
 and performs validation on data provided to the calculator. It
 also provides utility tools for reading input data from a file and writing output
